@@ -22,7 +22,7 @@ const HomePage = () => {
             </Helmet>
 
             <h1 className='font-bold mt-32 text-center text-4xl lg:text-5xl px-1'>Fake a number. Check a number.</h1>
-            <h3 className='font-light mb-16 text-3xl text-center'>available as JS libary and online tool</h3>
+            <h3 className='font-light mb-16 text-3xl text-center'>available as JS library and online tool</h3>
 
             <div className='flex justify-center'>
                 <div className='border border-gray-400 shadow-2xl w-4/5'>
